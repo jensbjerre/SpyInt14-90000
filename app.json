@@ -1,0 +1,26 @@
+{
+  "id": "622fa6f4-9f73-4479-a9f7-3ab251845707",
+  "name": "Spy Integration 14",
+  "publisher": "Spy ApS",
+  "version": "1.1.0.20",
+  "brief": "",
+  "description": "Platform 14, Runtime 3.0, Object id's from 90000 to 90099",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "http://www.spysystem.dk",
+  "logo": "Logo.jpg",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 90000,
+      "to": 90099
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "3.0"
+  
+}
